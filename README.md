@@ -2,7 +2,7 @@
 - 🔭 I’m currently working on ShenZhen University
 - 🌱 I’m currently learning Diffusion Models
 - 😄 I like playing baseketball in my spare time.
-- 📫 Here is my personal homgpage.
+- 📫 Here is my personal [homgpage](https://xl-wang1117.github.io/).
 - 💞️ Here is my email:wangxiaolong2023@email.szu.edu.cn
 
 <!--
